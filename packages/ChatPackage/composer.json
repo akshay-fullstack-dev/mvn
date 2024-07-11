@@ -1,0 +1,25 @@
+{
+    "name": "intersoft/chat",
+    "description": "Laravel chat package",
+    "type": "library",
+    "version": "v1.0",
+    "require": {},
+    "prefer-stable": true,
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "IntersoftChat\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    },
+    "authors": [
+        {
+            "name": "Akshay",
+            "email": "akshey.aipl@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "license": "MIT"
+}

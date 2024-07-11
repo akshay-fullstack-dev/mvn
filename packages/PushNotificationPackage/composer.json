@@ -1,0 +1,25 @@
+{
+    "name": "intersoft/push_notification",
+    "description": "push notification laravel package ",
+    "type": "library",
+    "version": "v1.0",
+    "require": {},
+    "prefer-stable": true,
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "IntersoftNotification\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    },
+    "authors": [
+        {
+            "name": "Akshay sharma",
+            "email": "akshey.aip@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "license": "MIT"
+}

@@ -1,0 +1,103 @@
+.card-block table {
+    overflow-x: scroll;
+    display: block;
+}
+
+.card-block table th {
+    white-space: nowrap;
+}
+
+.card-body {
+    overflow-x: auto;
+}
+
+.card-body table th {
+    white-space: nowrap;
+}
+
+.no-gutters {
+    display: contents;
+}
+
+.detail-content {
+    padding: 30px 20px;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.28);
+    background: #fff;
+    margin-bottom: 10px;
+}
+
+.app-footer {
+    margin-top: 20px;
+}
+
+.detail-content p {
+    border: 1px solid #b9c8de;
+    border-radius: 0;
+    padding-right: 2.2rem !important;
+    background-repeat: no-repeat;
+    background-position: center right 0.52344rem;
+    background-size: 1.04688rem 1.04688rem;
+    padding: 10px;
+}
+
+.detail-content img {
+    margin-bottom: 1rem;
+    padding: 0;
+    max-width: 100%;
+}
+
+.footer-btn-detail {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer-btn-detail form {
+    margin-right: 10px;
+}
+
+.img-section {
+    height: 300px;
+    width: 300px;
+    margin-bottom: 16px;
+}
+
+.img-section img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    padding: 0;
+}
+
+#exampleModal form {
+    padding: 0 20px;
+}
+
+#exampleModal form input {
+    margin-bottom: 20px;
+}
+
+#exampleModal .modal-footer input {
+    margin-bottom: 0;
+}
+
+.my-earning-header .card-body {
+    font-size: 24px;
+    padding: 0;
+}
+
+.form-group.card.my-earning {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.form-group.card.my-earning .form-group label {
+    display: block;
+    font-size: 16px;
+}
+
+.form-group.card.my-earning .form-group input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid rgba(0, 0, 0, .2);
+}

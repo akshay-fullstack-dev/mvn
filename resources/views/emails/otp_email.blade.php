@@ -1,0 +1,1 @@
+Your Otp for the {{$email}} is :- {{$otp}}

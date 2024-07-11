@@ -1,0 +1,29 @@
+{
+    "name": "intersoft/stripe",
+    "description": "stripe laravel package",
+    "type": "library",
+    "version": "v1.0",
+    "require": {
+        "stripe/stripe-php": "^7.30"
+    },
+    "prefer-stable": true,
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "IntersoftStripe\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [{
+        "name": "Sahil Manuja",
+        "email": "sahil.aipl01@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "license": "MIT"
+}
